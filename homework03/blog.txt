@@ -1,0 +1,14 @@
+1、页面呈现
+访问特定资源路径显示对应页面
+2、博客列表
+数据从服务端获取jquery ajax从服务端获取数据
+$.get("",function(data){
+
+})
+
+3、“阅读全文”为超链接的形式
+http://localhost:8081/detail?chapterId=
+
+4、文章详情页
+$.get
+可以再发一遍请求，跳转过来就可以得到url
